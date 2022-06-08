@@ -1,0 +1,4 @@
+runtime: nodejs14
+env: standard
+inbound_services:
+  - warmup
